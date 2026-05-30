@@ -1,0 +1,14 @@
+Data analysis is about feature selection, like cleaning the data this is done by feature engineering
+
+in feature selection:
+->which are important features that will contribute to the ml training or a data science project
+->this is important as it may impact how good our model or project is
+
+tips:
+->The first is lifecycle of DS project:
+1)handle the missing data. make they are not there. seaborn helps us statistical analysis of data
+2)to refer we go to kaggle kerenls
+3)handle the categorical data, need to learn these techniques
+4)what features are important
+5)handle the given dataset, like comma seprated or tab seprated we should handle this
+6)
