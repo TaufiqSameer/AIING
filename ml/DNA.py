@@ -32,8 +32,6 @@ dog_text = list(dog_data['words']);
 for item in range(len(dog_data)):
     dog_text[item] = ' '.join(dog_text[item]);
 y_data = human_data.iloc[:,0].values;
-
-
 from sklearn.feature_extraction.text import CountVectorizer;
 
 cv = CountVectorizer(ngram_range=(4,4));
@@ -54,7 +52,6 @@ classifier = MultinomialNB(alpha=0.1)
 classifier.fit(X_train, y_train)
 
 y_pred = classifier.predict(X_test)
-
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 print("Confusion matrix\n")
 print(pd.crosstab(pd.Series(y_test, name='Actual'), pd.Series(y_pred, name='Predicted')))
@@ -66,3 +63,6 @@ def get_metrics(y_test, y_predicted):
     return accuracy, precision, recall, f1
 accuracy, precision, recall, f1 = get_metrics(y_test, y_pred)
 print("accuracy = %.3f \nprecision = %.3f \nrecall = %.3f \nf1 = %.3f" % (accuracy, precision, recall, f1))
+
+
+
