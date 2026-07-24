@@ -10,3 +10,7 @@ vis = VisualAnalysis(df)
 print(dir(vis))
 
 
+import matplotlib.pyplot as plt;
+
+plt.scatter(df['sepal_length'],df['petal_width']);
+plt.show();
