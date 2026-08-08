@@ -1,0 +1,800 @@
+================================================================================
+AWS Cloud Practitioner
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 380
+Coverage : 0.352
+
+================================================================================
+AWS Solutions Architect
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 301
+Coverage : 0.372
+
+================================================================================
+Advanced Java and Spring Boot
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+Advanced Neural Networks
+S3 : 2
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+Advanced Python Development
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 268
+Coverage : 0.372
+
+================================================================================
+Advanced SQL and Query Optimization
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 268
+Coverage : 0.372
+
+================================================================================
+Android App Development
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 379
+Coverage : 0.351
+
+================================================================================
+Angular Framework Essentials
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+Apache Kafka for Real-time Data
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 264
+Coverage : 0.367
+
+================================================================================
+Azure Fundamentals
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 266
+Coverage : 0.369
+
+================================================================================
+Bayesian Statistics
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 382
+Coverage : 0.354
+
+================================================================================
+Blockchain Development
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 301
+Coverage : 0.372
+
+================================================================================
+C Plus Plus Programming Essentials
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 383
+Coverage : 0.355
+
+================================================================================
+CI CD Pipeline Setup
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 263
+Coverage : 0.365
+
+================================================================================
+Calculus for Data Science
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 262
+Coverage : 0.364
+
+================================================================================
+Computer Vision with OpenCV
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+Cybersecurity Fundamentals
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+Data Analysis with Pandas
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 292
+Coverage : 0.360
+
+================================================================================
+Data Engineering with Apache Spark
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 201
+Coverage : 0.372
+
+================================================================================
+Data Visualization with Matplotlib
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 378
+Coverage : 0.350
+
+================================================================================
+Data Warehouse Design
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 268
+Coverage : 0.372
+
+================================================================================
+Database Performance Tuning
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 363
+Coverage : 0.336
+
+================================================================================
+Deep Learning with PyTorch
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 265
+Coverage : 0.368
+
+================================================================================
+Deep Learning with TensorFlow
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+DevOps Practices and Tools
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 295
+Coverage : 0.364
+
+================================================================================
+Django Web Framework
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 266
+Coverage : 0.369
+
+================================================================================
+Docker and Containerization
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 377
+Coverage : 0.349
+
+================================================================================
+ETL Pipeline Development
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 295
+Coverage : 0.364
+
+================================================================================
+Embedded Systems Programming
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 384
+Coverage : 0.356
+
+================================================================================
+Ethical Hacking Basics
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 263
+Coverage : 0.365
+
+================================================================================
+Excel for Data Analysis
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+Exploratory Data Analysis
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 268
+Coverage : 0.372
+
+================================================================================
+Feature Engineering for ML
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 387
+Coverage : 0.358
+
+================================================================================
+Flask API Development
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 297
+Coverage : 0.367
+
+================================================================================
+Flutter Cross Platform Apps
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+Generative AI and Prompt Engineering
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 378
+Coverage : 0.350
+
+================================================================================
+Git and GitHub Mastery
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 263
+Coverage : 0.365
+
+================================================================================
+Go Language for Backend
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 267
+Coverage : 0.371
+
+================================================================================
+Google Cloud Platform Basics
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+GraphQL API Development
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+HTML and CSS for Beginners
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 267
+Coverage : 0.371
+
+================================================================================
+Hypothesis Testing in Practice
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 266
+Coverage : 0.369
+
+================================================================================
+IoT with Raspberry Pi
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 379
+Coverage : 0.351
+
+================================================================================
+Java Programming Basics
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 267
+Coverage : 0.371
+
+================================================================================
+JavaScript Full Stack Development
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 270
+Coverage : 0.375
+
+================================================================================
+JavaScript Fundamentals
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+Kubernetes Orchestration
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 266
+Coverage : 0.369
+
+================================================================================
+Linear Algebra for Machine Learning
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 379
+Coverage : 0.351
+
+================================================================================
+Linux Command Line Essentials
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 271
+Coverage : 0.376
+
+================================================================================
+MLOps and Model Deployment
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 265
+Coverage : 0.368
+
+================================================================================
+Machine Learning Fundamentals
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 379
+Coverage : 0.351
+
+================================================================================
+Modern JavaScript ES6 Plus
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 377
+Coverage : 0.349
+
+================================================================================
+MongoDB for Developers
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+Natural Language Processing
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 377
+Coverage : 0.349
+
+================================================================================
+Node.js Backend Development
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+PostgreSQL Database Design
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 296
+Coverage : 0.365
+
+================================================================================
+Power BI Dashboard Creation
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 297
+Coverage : 0.367
+
+================================================================================
+Probability and Statistics
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 262
+Coverage : 0.364
+
+================================================================================
+Python Automation and Scripting
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 269
+Coverage : 0.374
+
+================================================================================
+Python OOP Concepts
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 268
+Coverage : 0.372
+
+================================================================================
+Python Programming Masterclass
+S3 : 3
+S4 : 2
+S5 : 9
+S6 : 8
+Possible : 432
+Observed : 154
+Coverage : 0.356
+
+================================================================================
+Python for Absolute Beginners
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 203
+Coverage : 0.376
+
+================================================================================
+Python for Data Science
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 266
+Coverage : 0.369
+
+================================================================================
+REST API Design Principles
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+React Native Mobile Development
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+React.js Development
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+Redis Caching Strategies
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 384
+Coverage : 0.356
+
+================================================================================
+Reinforcement Learning Basics
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 204
+Coverage : 0.378
+
+================================================================================
+Responsive Web Design
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 385
+Coverage : 0.356
+
+================================================================================
+SQL for Beginners
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 381
+Coverage : 0.353
+
+================================================================================
+Smart Contract Programming with Solidity
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 265
+Coverage : 0.368
+
+================================================================================
+Statistical Analysis with R
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 298
+Coverage : 0.368
+
+================================================================================
+Supervised Learning Algorithms
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 382
+Coverage : 0.354
+
+================================================================================
+Tableau for Business Analytics
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 264
+Coverage : 0.367
+
+================================================================================
+Time Series Analysis
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 269
+Coverage : 0.374
+
+================================================================================
+Transfer Learning and Fine-tuning
+S3 : 4
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 1080
+Observed : 379
+Coverage : 0.351
+
+================================================================================
+TypeScript for Developers
+S3 : 3
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 540
+Observed : 202
+Coverage : 0.374
+
+================================================================================
+Unsupervised Learning Techniques
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 292
+Coverage : 0.360
+
+================================================================================
+Vue.js for Beginners
+S3 : 4
+S4 : 2
+S5 : 10
+S6 : 9
+Possible : 720
+Observed : 267
+Coverage : 0.371
+
+================================================================================
+iOS App Development with Swift
+S3 : 3
+S4 : 3
+S5 : 10
+S6 : 9
+Possible : 810
+Observed : 293
+Coverage : 0.362
+
