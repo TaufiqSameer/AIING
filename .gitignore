@@ -3,3 +3,7 @@ creditcard.csv
 .venv-1
 .vscode
 Basics
+train.csv
+train_templates.csv
+failure_analysis.txt
+analysis_report.txt
