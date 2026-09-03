@@ -1,0 +1,30 @@
+AI: at the end day, we will be creating a ai application 
+Ex. Self driving cars,amazon insight
+In this all these application, there are so many things that happens but we can see that in netflix recommendation system they use some form
+of AI
+AI: an application will complete it's intended task without any human intervention
+
+Machine Learning : It is the subset of AI. Here the most important is the data. It provides stats-tool, preprocess the data, make any prediction
+Hence in short there will be some mathematical formula that does some work like prediction, preprocessing 
+
+Different types of machine learning techniques:
+i) SuperVised Machine Learning : 
+Height Weight
+130    45
+140    55
+180    75
+
+We can consider this as the labelled data. We can make a model for this which is able to take an input like height and give an output like weight 
+it will train itself using the mathematical formulas we have talked before. This is called supervised we see one input that gives an output
+we will independent features and dependent features here
+
+we have two different techniques in supervised learning:
+i)Regression -> the output will be a continous value
+ii) classification -> it will be fixed number of categories
+
+
+ii) Unsupervised learning :
+main task is to clustering, dimensional reduction and segmentation 
+
+iii) semi-supervised machine learning :
+reinforcement learning we will have some labelled data -> model -> 
